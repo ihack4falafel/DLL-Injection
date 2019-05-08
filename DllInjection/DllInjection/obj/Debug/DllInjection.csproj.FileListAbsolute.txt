@@ -1,0 +1,7 @@
+C:\Users\hjawad\source\repos\DllInjection\DllInjection\bin\Debug\DllInjection.exe
+C:\Users\hjawad\source\repos\DllInjection\DllInjection\bin\Debug\DllInjection.pdb
+C:\Users\hjawad\source\repos\DllInjection\DllInjection\obj\Debug\DllInjection.csproj.CoreCompileInputs.cache
+C:\Users\hjawad\source\repos\DllInjection\DllInjection\obj\Debug\DllInjection.exe
+C:\Users\hjawad\source\repos\DllInjection\DllInjection\obj\Debug\DllInjection.pdb
+C:\Users\hjawad\source\repos\DllInjection\DllInjection\bin\Debug\DllInjection.exe.config
+C:\Users\hjawad\source\repos\DllInjection\DllInjection\obj\Debug\DllInjection.csprojAssemblyReference.cache

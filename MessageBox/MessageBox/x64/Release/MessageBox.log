@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MessageBox.cpp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MessageBox.vcxproj -> C:\Users\hjawad\source\repos\MessageBox\x64\Release\MessageBox.dll
